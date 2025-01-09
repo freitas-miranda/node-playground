@@ -1,12 +1,29 @@
+/*
+# Ordem a ser executada no Node.js
+1. Código síncrono
+2. Início do async/await (síncrono)
+3. Fim do código síncrono
+4. process.nextTick (micro-task)
+5. Promise resolvida (micro-task)
+6. await finalizado (micro-task)
+7. Callback do primeiro setTimeout (macro-task)
+8. Callback do segundo setTimeout (macro-task)
+9. Callback setImmediate (macro-task, após timeout)
+*/
+
+// setTimeout: Macro-task -> Executadas após a finalização do ciclo de eventos.
+setTimeout(() => {
+  console.log('7. Callback do primeiro setTimeout (macro-task)');
+}, 0);
 
 // setImmediate: Macro-task -> Executadas após a finalização do ciclo de eventos.
 setImmediate(() => {
-  console.log('8. Callback setImmediate (macro-task, após timeout)');
+  console.log('9. Callback setImmediate (macro-task, após timeout)');
 });
 
 // setTimeout: Macro-task -> Executadas após a finalização do ciclo de eventos.
 setTimeout(() => {
-  console.log('7. Callback setTimeout (macro-task)');
+  console.log('8. Callback do segundo setTimeout (macro-task)');
 }, 0);
 
 
