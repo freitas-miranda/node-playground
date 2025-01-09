@@ -1,0 +1,257 @@
+[
+  {
+    "description": "Description 1",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000001",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 2",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000002",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 3",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000003",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 4",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000004",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 5",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000005",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 6",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000006",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 7",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000007",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 8",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000008",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 9",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000009",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 10",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000010",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 11",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000011",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 12",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000012",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 13",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000013",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 14",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000014",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 15",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000015",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 16",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000016",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 17",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000017",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 18",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000018",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 19",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000019",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 20",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000020",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 21",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000021",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 22",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000022",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 23",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000023",
+    "statementTrasactionType": "PIX"
+  },
+  {
+    "description": "Description 24",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000024",
+    "statementTrasactionType": "BILLET"
+  },
+  {
+    "description": "Description 25",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000025",
+    "statementTrasactionType": "BILLET"
+  },
+  {
+    "description": "Description 26",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000026",
+    "statementTrasactionType": "BILLET"
+  },
+  {
+    "description": "Description 27",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000027",
+    "statementTrasactionType": "BILLET"
+  },
+  {
+    "description": "Description 28",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000028",
+    "statementTrasactionType": "BILLET"
+  },
+  {
+    "description": "Description 29",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000029",
+    "statementTrasactionType": "BILLET"
+  },
+  {
+    "description": "Description 30",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000030",
+    "statementTrasactionType": "BILLET"
+  },
+  {
+    "description": "Description 31",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000031",
+    "statementTrasactionType": "BILLET"
+  },
+  {
+    "description": "Description 32",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000032",
+    "statementTrasactionType": "TED"
+  },
+  {
+    "description": "Description 33",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000033",
+    "statementTrasactionType": "TED"
+  },
+  {
+    "description": "Description 34",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000034",
+    "statementTrasactionType": "TED"
+  },
+  {
+    "description": "Description 35",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000035",
+    "statementTrasactionType": "CARD"
+  },
+  {
+    "description": "Description 36",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000036",
+    "statementTrasactionType": "CARD"
+  },
+  {
+    "description": "Description 37",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000037",
+    "statementTrasactionType": "CARD"
+  },
+  {
+    "description": "Description 38",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000038",
+    "statementTrasactionType": "CARD"
+  },
+  {
+    "description": "Description 39",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000039",
+    "statementTrasactionType": "CARD"
+  },
+  {
+    "description": "Description 40",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000040",
+    "statementTrasactionType": "CARD"
+  },
+  {
+    "description": "Description 41",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000041",
+    "statementTrasactionType": "CARD"
+  },
+  {
+    "description": "Description 42",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000042",
+    "statementTrasactionType": "CASHBACK"
+  },
+  {
+    "description": "Description 43",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000043",
+    "statementTrasactionType": "CASHBACK"
+  },
+  {
+    "description": "Description 44",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000044",
+    "statementTrasactionType": "BLOCK"
+  },
+  {
+    "description": "Description 45",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000045",
+    "statementTrasactionType": "UNBLOCK"
+  },
+  {
+    "description": "Description 46",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000046",
+    "statementTrasactionType": "REFUND"
+  },
+  {
+    "description": "Description 47",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000047",
+    "statementTrasactionType": "REFUND"
+  },
+  {
+    "description": "Description 48",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000048",
+    "statementTrasactionType": "FEE_MANAGER"
+  },
+  {
+    "description": "Description 49",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000049",
+    "statementTrasactionType": "INTERNAL_TRANSFER"
+  },
+  {
+    "description": "Description 50",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000050",
+    "statementTrasactionType": "INTERNAL_TRANSFER"
+  },
+  {
+    "description": "Description 51",
+    "transactionTypeId": "00000000-0000-0000-0000-000000000051",
+    "statementTrasactionType": "ACCOUNT_VALIDATION"
+  }
+]
